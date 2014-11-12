@@ -39,7 +39,7 @@
   },
   "peerDependencies": {
     "phantomjs": "^1.9.12",
-  }
+  },
   "devDependencies": {
     "benchmark": "~1.0.0",
     "browserify": "^3.33.0",
