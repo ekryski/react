@@ -38,7 +38,7 @@
     "jstransform": "~3.0.0"
   },
   "peerDependencies": {
-    "phantomjs": "^1.9.12",
+    "phantomjs": "^1.9.12"
   },
   "devDependencies": {
     "benchmark": "~1.0.0",
