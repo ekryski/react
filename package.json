@@ -37,9 +37,6 @@
     "esprima-fb": "~3001.1.0-dev-harmony-fb",
     "jstransform": "~3.0.0"
   },
-  "peerDependencies": {
-    "phantomjs": "^1.9.12"
-  },
   "devDependencies": {
     "benchmark": "~1.0.0",
     "browserify": "^3.33.0",
@@ -61,7 +58,7 @@
     "lodash": "~2.4.1",
     "microtime": "~0.5.1",
     "optimist": "~0.6.0",
-    "phantomjs": "=1.9.12",
+    "phantomjs": "^1.9.12",
     "platform": "~1.0.0",
     "populist": "~0.1.6",
     "recast": "~0.5.6",
